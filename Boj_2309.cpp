@@ -40,5 +40,6 @@ void printRes(int arr[], int fakeIdx[]){
     if(i == fakeIdx[0] || i == fakeIdx[1])
       continue;
     cout << arr[i] << "\n";
+    //hi
   }
 }
