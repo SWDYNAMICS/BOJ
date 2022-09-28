@@ -1,2 +1,2 @@
 just simple memo
-- I want commit at least one per a day.
+- I want commit to at least one per a day.
